@@ -74,6 +74,7 @@ void bprint( bool Board[ROWS][COLS] , string input)
     }
 }
 
+
 void filler(bool Filler[ROWS] , string pattern )
 {
     initialize_row(Filler) ;
