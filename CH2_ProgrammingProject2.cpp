@@ -33,9 +33,9 @@ int main()
 		cout << endl << " Enter The Previous Annual Salary: ";
 		cin >> previous_salary;
 
-    new_salary = (previous_salary/12)*(1+increase) ;
+        new_salary = (previous_salary/12)*(1+increase)*6 ;
 
-    cout << "\n The New Monthly Salary For 6 Month: " << new_salary << endl << endl ;
+        cout << "\n The New Salary For 6 Month: " << new_salary << endl << endl ;
 		cout << " Press \"Enter\" To Repeat The Process Or \"Esc\" To Exit";
 		do
 		{
@@ -54,6 +54,6 @@ int main()
 
 	} while (true);
 
-  //Program Ends Here
+    //Program Ends Here
 	return 0;
 }
