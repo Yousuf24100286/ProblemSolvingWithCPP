@@ -1,7 +1,7 @@
 /**
 Problem Solving With C++
 Chapter 2 / C++ Basics
-Programming Project 4
+Programming Project 5
 
 Write a program that determines whether a meeting room is in violation of fire law regulations
 regarding the maximum room capacity. The program will read in the maximum room capacity
