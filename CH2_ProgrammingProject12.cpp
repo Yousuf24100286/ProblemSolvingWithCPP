@@ -1,7 +1,7 @@
 /**
 Problem Solving With C++
 Chapter 2 / C++ Basics
-Programming Project 11
+Programming Project 12
 
 Many private water wells produce only 1 or 2 gallons of water per minute.
 One way to avoid running out of water with these low-yield wells is to use a holding tank.
